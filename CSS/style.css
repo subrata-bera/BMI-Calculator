@@ -19,11 +19,7 @@ body{
     padding: 8vh 3vw;
     border-radius: 20px;
 }
-/* .main label{
-    font-size: 1vmax;
-    margin-top: 1.5vh;
-    display: none;
-} */
+
 .main input{
     margin: 2vh 0;
     width: 20vmax;
